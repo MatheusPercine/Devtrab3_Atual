@@ -1,0 +1,35 @@
+// var amortizacao = Calcular_Amortizacao(valorFinanciado, t, p, 5);
+// document.getElementById("output").innerHTML = amortizacao;
+// <form action="calcResultado1.html" method="post"></form>
+
+//  var numeroDeRepeticoes = 5;
+//  var container = document.getElementById("tabela");
+//  for (var i = 1; i <= numeroDeRepeticoes; i++) {
+//    // Cria um novo elemento, neste caso, um parágrafo <p>
+//    var paragrafo = document.createElement("p");
+   
+//    // Define o conteúdo do parágrafo (texto)
+//    paragrafo.textContent = "Este é o parágrafo número " + i;
+   
+//    // Adiciona o parágrafo ao elemento 'container' no DOM
+//    container.appendChild(paragrafo);
+// }
+
+
+
+// for (i = 1; i >= 3; i ++){
+//     amortizacao += 1;
+// };
+// colunas.innerHTML = amortizacao
+
+// for (var i = 1; i >= col; i++) {
+//     colunas.innerHTML += `
+//     <tr>
+//         <td>2</td>
+//         <td>1000</td>
+//         <td>5</td>
+//         <td>20</td>
+//         <td>21000</td>
+//     </tr>`
+// };
+// document.getElementById("resultado2").innerHTML = 
